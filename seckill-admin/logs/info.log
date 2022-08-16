@@ -1,0 +1,12 @@
+07:24:59.673 [main] INFO  com.bmw.seckill.SeckillAdminApplication - Starting SeckillAdminApplication on DESKTOP-AETMGOV with PID 18628 (D:\Idea\work\seckill-parent-xbc\seckill-admin\target\classes started by 18317 in D:\Idea\work\seckill-parent-xbc\seckill-admin)
+07:24:59.686 [main] INFO  com.bmw.seckill.SeckillAdminApplication - The following profiles are active: dev
+07:25:01.268 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+07:25:01.288 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+07:25:01.290 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+07:25:01.793 [main] INFO  org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+07:25:01.800 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+07:25:03.388 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+07:25:03.436 [main] INFO  com.bmw.seckill.SeckillAdminApplication - Started SeckillAdminApplication in 4.46 seconds (JVM running for 6.117)
+07:25:08.671 [http-nio-8082-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+07:25:21.783 [http-nio-8082-exec-3] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+07:25:22.081 [http-nio-8082-exec-3] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
